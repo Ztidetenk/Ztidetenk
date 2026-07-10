@@ -12,7 +12,7 @@ Software developer who loves coding and coffee ☕
 
 - 🔭 I'm currently working on **an application**
 - 💬 Ask me about **anything you want!**
-- ⚡ Fun fact: **I code at the beach** 🏖️
+- ⚡ Fun fact: **I have been coding since I was 10 ** 🏖️
 
 ## 🛠️ Tech Stack
 
@@ -54,3 +54,4 @@ Software developer who loves coding and coffee ☕
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Ztidetenk&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
+  
