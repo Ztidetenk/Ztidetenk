@@ -1,8 +1,8 @@
 <div align="center">
 
-# <span>Hello! I'm Smit</span> 👋
+# Hello! I'm Smit 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=software+developer+%2F+trader;builder+of+things+that+ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=software+developer+%2F+trader;builder+of+things+that+ship" alt="Typing SVG" />
 
 </div>
 
@@ -17,40 +17,40 @@ Software developer who loves coding and coffee ☕
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1E1E24?style=for-the-badge&logo=python&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/JavaScript-1E1E24?style=for-the-badge&logo=javascript&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/TypeScript-1E1E24?style=for-the-badge&logo=typescript&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/React-1E1E24?style=for-the-badge&logo=react&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Next.js-1E1E24?style=for-the-badge&logo=nextdotjs&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Flask-1E1E24?style=for-the-badge&logo=flask&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/FastAPI-1E1E24?style=for-the-badge&logo=fastapi&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/HTML5-1E1E24?style=for-the-badge&logo=html5&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/CSS3-1E1E24?style=for-the-badge&logo=css3&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/C++-1E1E24?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/MySQL-1E1E24?style=for-the-badge&logo=mysql&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/AWS-1E1E24?style=for-the-badge&logo=amazonwebservices&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/GitHub-1E1E24?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ztidetenk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ztidetenk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ztidetenk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E1E24&title_color=00E5FF&text_color=EAEAEA&icon_color=00E5FF&ring_color=00E5FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ztidetenk&layout=compact&hide_border=true&bg_color=1E1E24&title_color=00E5FF&text_color=EAEAEA" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ztidetenk&theme=radical&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ztidetenk&hide_border=true&background=1E1E24&stroke=EAEAEA&ring=00E5FF&fire=00E5FF&currStreakNum=EAEAEA&currStreakLabel=00E5FF&sideNums=EAEAEA&sideLabels=EAEAEA&dates=EAEAEA" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ztidetenk&theme=react-dark&hide_border=true&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ztidetenk&hide_border=true&bg_color=121212&color=EAEAEA&line=00E5FF&point=EAEAEA&title_color=00E5FF" />
 </p>
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ztidetenk&color=f75c7e&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ztidetenk&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
